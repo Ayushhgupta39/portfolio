@@ -1,0 +1,533 @@
+{
+  "about": {
+    "name": "Ayush Gupta",
+    "title": "Full Stack Developer",
+    "subTitle": "I develop full-stack web and mobile applications",
+    "description": "I am a full-stack developer with expertise in React, TypeScript, and Node.js. Currently pursuing my Bachelor's in Computer Science, I have hands-on experience building scalable applications and working with modern development tools and practices. I focus on creating efficient, maintainable solutions while continuously learning new technologies.",
+    "address": "Kanpur, Uttar Pradesh, India",
+    "phoneNumber": "+91-8840146044",
+    "contactEmail": "ayushgupta3902@gmail.com",
+    "quote": "Here's something about me",
+    "exp_year": "5",
+    "some_total": "90",
+    "avatar": {
+      "public_id": "portfolio3/1713995155677-122l5x.webp",
+      "url": "https://ayush-personal-bucket.s3.us-east-1.amazonaws.com/IMG-20240225-WA0061%202.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAQ3EGWM4AYZYPTSO5%2F20250125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250125T140120Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECYaCXVzLWVhc3QtMSJHMEUCIGNv9nFditW%2Bl4C%2BdUlAlndW2Exh31Jgy%2BiLXQ67rfAlAiEA%2BLYUxc1KWZ4V4V1%2Bs8dGzbvus2XRTxnmNzYNCADDEXAq6AIILxAAGgwwNTgyNjQ1NDUwMjUiDLkkWfGJMGxYfdjjVirFAsl1idi2XOSlVN70qlYhe%2FdNYey%2BjP9BTmOoz1Pg432yzqRHZgxwS3Z2sNn8oIcNwnHATm96A7txVyut%2BioqiR2t3EoNDKeU1eqTei1ubnaH9K%2Fi08jyLr3cJYS2TRGT3WazK%2FR1rawyK8wWEPfm94%2FUh9pzDZ7NTNruoBv4N4HSCcuIKmMY9xljhY492sU2bEb75UAHlk%2FxgSzxinXLv%2BnmQCZDcSR3wsBLh8TB5GmbFVogdbHD3YcT7YDtKcMO9UvIlC%2Fg5hhJlQuoov37mgQR78n0S1Ayq6%2FqqTLSB4Xb%2FAt7Ri2X2WOEHiwvyhB28gtZ5kV7rJ2r8aGUV3noFAg8W0fGA0vf4SSxgxCxxIM5PcAL8Gg6%2BrgW2ovDafYSTKoevD3Tee7aTwB5X6%2Bik7yd6wEBgv51fIp823V1ZmBnSng0GjEw3cjTvAY6swKfvHDfdAXnpv9RK5u4VkCHCqhnl7Je3glegXwUMCM%2F5d3XotHdUq2V31%2BEzMWg7QbT%2BvfkDrYfle1AbyVXAkvWqJKJnLY3UHvztxNDLtiEC5j4oXdiNRQvwa2iZfxpjdb2nkbpwkKeGxCFSAwhW4Penaq9wcHZbJAe9BLC31nJPpopxCAXpdp7q8%2Fvwyp3mubZxf%2F6DgSAEJUDeo4sRex9Pq770UpQqstJz9IZUaajPPO1DQOFL0jyxT7Knre8%2FvIIgZ0fW%2Bb9Q2Xg5UarXU6VjAJfwu9efEomN6%2FltsI2JvnVQezCW6LrEV9iMT2OK6y9JQt0NnpIlt%2F8raqo4%2BxaZB%2FIm793dBITOJLu%2Fj6v6wRxLlqFB3kamzBtitbbF2AuJNvd3Jv7tDZIvglo70eGbrLb&X-Amz-Signature=52f6fe85e4a9c6a97638d138b482519a712c3196edb9682e4a15f8dc5856a4ad&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "portfolio3/1713996156944-1hro1b.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713996156944-1hro1b.webp"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "portfolio3",
+  "email": "ayushgupta3902@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "Blockhouse Labs",
+      "summary": "Built highly scalable UI components and implemented various features for the Hoodwinked Trades platform",
+      "sequence": 2,
+      "startDate": "2024-08-01T00:00:00.000Z",
+      "endDate": null,
+      "jobTitle": "Full-stack developer Intern",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Built highly scalable and optimized React-TypeScript UI components for the Hoodwinked Trades platform to manage hidden trading costs",
+        "Developed an affiliate system, enabling existing customers to invite new users and earn rewards",
+        "Integrated Stripe and implemented backend logic to handle payments, allowing users to subscribe, update, or change membership plans",
+        "Created GitHub action pipelines for building the project and performing linting checks using ESLint for each PR",
+        "Set up email nurture functionality for customer activation",
+        "Migrated codebases from Mongoose to Prisma ORM",
+        "Developed a suspicious login detection system based on previous login locations and devices"
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db94"
+    },
+    {
+      "company_name": "Actnable AI",
+      "summary": "Built end-to-end frontend for language translation and qualitative analysis services",
+      "sequence": 1,
+      "startDate": "2024-04-01T00:00:00.000Z",
+      "endDate": "2024-08-01T00:00:00.000Z",
+      "jobTitle": "Full-stack developer Intern",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Built the end-to-end frontend using React and Typescript from scratch for language translation and qualitative analysis services",
+        "Developed Charts and Word cloud",
+        "Integrated APIs maintaining scalable project structure",
+        "Managed Azure deployment of frontend and backend repositories",
+        "Wrote Github action pipeline for continuous integration and build check"
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe900556c3f884e9db94"
+    },
+    {
+      "company_name": "Your Strength",
+      "summary": "Built the entire web platform for the company including both frontend and backend.",
+      "sequence": 1,
+      "startDate": "2023-11-01T00:00:00.000Z",
+      "endDate": "2024-03-01T00:00:00.000Z",
+      "jobTitle": "Full-stack developer",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Built the frontend and backend using React and Nodejs from scratch for the Your strenghth web platform",
+        "Led the migration of the company's website from PHP to React, reducing page load times by 90% and improving overall user interaction speed by 75%, demonstrating proficiency in full-stack development methodologies.",
+        "Built the frontend using React and Tailwind.",
+        "Developed the backend using Nodejs and MongoDB."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe900556c3f881e9db94"
+    }
+  ],
+
+  "skills": [
+    {
+      "enabled": true,
+      "name": "C++",
+      "sequence": 17,
+      "percentage": 87,
+      "image": {
+        "public_id": "1706288734207-4rlz3m",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
+        "_id": "65b3e661b48589dfcae187f8"
+      },
+      "_id": "65b3e661b48589dfcae187f7"
+    },
+    {
+      "enabled": true,
+      "name": "Python",
+      "sequence": 16,
+      "percentage": 86,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+        "_id": "65b3e645b48589dfcae187a3"
+      },
+      "_id": "65b3e645b48589dfcae187a2"
+    },
+    {
+      "enabled": true,
+      "name": "Docker",
+      "sequence": 16,
+      "percentage": 85,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb",
+        "_id": "65b3e034b48589dfcae182ce"
+      },
+      "_id": "65b3e034b48589dfcae182cd"
+    },
+    {
+      "enabled": true,
+      "name": "Figma",
+      "sequence": 15,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706287138776-slfc3e",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287138776-slfc3e",
+        "_id": "65b3e023b48589dfcae18289"
+      },
+      "_id": "65b3e023b48589dfcae18288"
+    },
+    {
+      "enabled": true,
+      "name": "TypeScript",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706287104739-pm8en",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+        "_id": "65b3e001b48589dfcae18246"
+      },
+      "_id": "65b3e001b48589dfcae18245"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 7,
+      "percentage": 92,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
+        "_id": "65b3df8fb48589dfcae18205"
+      },
+      "_id": "65b3df8fb48589dfcae18204"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 13,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
+        "_id": "65b3df76b48589dfcae181c6"
+      },
+      "_id": "65b3df76b48589dfcae181c5"
+    },
+    {
+      "enabled": true,
+      "name": "Three.js",
+      "sequence": 9,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286941212-chpzl",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286941212-chpzl",
+        "_id": "65b3df5db48589dfcae18189"
+      },
+      "_id": "65b3df5db48589dfcae18188"
+    },
+    {
+      "enabled": true,
+      "name": "Redux",
+      "sequence": 7,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286913147-nwiky8",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8",
+        "_id": "65b3df41b48589dfcae1814e"
+      },
+      "_id": "65b3df41b48589dfcae1814d"
+    },
+    {
+      "enabled": true,
+      "name": "Javascript",
+      "sequence": 3,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706288679775-y4qwn3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+        "_id": "65b3e628b48589dfcae18750"
+      },
+      "_id": "65b3df24b48589dfcae18114"
+    },
+    {
+      "enabled": true,
+      "name": "Git",
+      "sequence": 12,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286842731-r0eyn",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae180de"
+      },
+      "_id": "65b3defbb48589dfcae180dd"
+    },
+    {
+      "enabled": true,
+      "name": "Github",
+      "sequence": 11,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286821409-21cuqs",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+        "_id": "65b3dee5b48589dfcae180a9"
+      },
+      "_id": "65b3dee5b48589dfcae180a8"
+    },
+    {
+      "enabled": true,
+      "name": "Sass",
+      "sequence": 10,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286780392-39i48h",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286780392-39i48h",
+        "_id": "65b3debcb48589dfcae18076"
+      },
+      "_id": "65b3debcb48589dfcae18075"
+    },
+    {
+      "enabled": true,
+      "name": "GraphQl",
+      "sequence": 9,
+      "percentage": 80,
+      "image": {
+        "public_id": "1706286760237-gh4idq",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286760237-gh4idq",
+        "_id": "65b3dea8b48589dfcae18045"
+      },
+      "_id": "65b3dea8b48589dfcae18044"
+    },
+    {
+      "enabled": true,
+      "name": "Vercel",
+      "sequence": 7,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
+        "_id": "65b3de89b48589dfcae18016"
+      },
+      "_id": "65b3de89b48589dfcae18015"
+    },
+    {
+      "enabled": true,
+      "name": "Next.js",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286682511-rgp96r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+        "_id": "65b3de5bb48589dfcae17fe9"
+      },
+      "_id": "65b3de5bb48589dfcae17fe8"
+    },
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 5,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+        "_id": "65b3f27aeb20546ae6d49e76"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Tailwind",
+      "sequence": 4,
+      "percentage": 99,
+      "image": {
+        "public_id": "1706286616701-2jka3q",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+        "_id": "65b3de19b48589dfcae17f95"
+      },
+      "_id": "65b3de19b48589dfcae17f94"
+    },
+    {
+      "enabled": true,
+      "name": "CSS",
+      "sequence": 2,
+      "percentage": 97,
+      "image": {
+        "public_id": "1706286273084-romle",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+      },
+      "_id": "65b3dcc1b48589dfcae17e4d"
+    },
+    {
+      "name": "HTML",
+      "sequence": 1,
+      "percentage": 98,
+      "image": {
+        "public_id": "1706286058630-v3ax0a",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+      },
+      "_id": "65b3dbeba5c8d2db7b6164bc",
+      "enabled": true
+    }
+  ],
+  "youtube": [
+    {
+      "url": "",
+      "title": "Sample Video",
+      "sequence": 1,
+      "image": null,
+      "embedId": "eitWM4gNZoM",
+      "enabled": true,
+      "_id": "65f482e5d689e5777d9457ae"
+    }
+  ],
+  
+    "projects": [
+      {
+        "liveurl": "https://ex-chain-finance.vercel.app/",
+        "githuburl": "https://github.com/Ayushhgupta39/ex-chain-finance",
+        "title": "ex-chain-finance",
+        "sequence": 1,
+        "image": {
+          "public_id": "1706285378965-91vbk",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285378965-91vbk"
+        },
+        "description": "Developed a cross-chain crypto bridge and swap platform using Next.js, LI.FI Protocol, and Tailwind CSS, supporting over 15 blockchains and 500+ tokens and coins. Implemented the LI.FI protocol SDK, enhancing transaction security by 40% compared to previous solutions. Engineered an optimized and mobile responsive UI with Next.js and Tailwind CSS.",
+        "techStack": ["Next.js", "LI.FI Protocol", "Tailwind CSS", "EmailJS"],
+        "_id": "65b3d9c8d017f6b49c778ca7",
+        "enabled": true
+        
+      },
+      {
+        "liveurl": "https://streamflix-movies.vercel.app/",
+        "githuburl": "https://github.com/Ayushhgupta39/Streamflix-project",
+        "title": "StreamFlix",
+        "sequence": 2,
+        "image": {
+          "public_id": "1706285368529-zdr5fl",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285368529-zdr5fl"
+        },
+        "description": "Built a full-stack streaming site using Next.js, Typescript, and TailwindCSS. Enabled seamless movie streaming and implemented Email, Google, and GitHub OAuth, resulting in a 40% increase in sign-ups. Containerized the application using Docker and established backend using Prismadb and MongoDB for data management.",
+        "techStack": ["Next.js", "Typescript", "TailwindCSS", "Prismadb", "MongoDB"],
+        "_id": "65b3d9c8d017f6b49c778c7",
+        "enabled": true
+      },
+      {
+        "liveurl": "https://cryptomart-ten.vercel.app/",
+        "githuburl": "https://github.com/Ayushhgupta39/cryptomart",
+        "title": "CryptoMart",
+        "sequence": 3,
+        "image": {
+          "public_id": "1706285368529-zdr5fl",
+          "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285368529-zdr5fl"
+        },
+        "description": "Developed a feature-rich cryptocurrency tracking web application using React. Provides real-time price updates for up to 100 tokens and coins from top exchanges using RapidAPI. Offers comprehensive historical price charts using chartjs for each cryptocurrency for in-depth analysis.",
+        "techStack": ["React", "RapidAPI", "Redux-toolkit", "Ant-design", "react-chartjs-2"],
+        "_id": "65b3d9c8d017f6b4778ca7",
+        "enabled": true
+      }
+    ],
+  
+  
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/ayushh.gif/",
+      "image": {
+        "public_id": "1708718250873-3038n7.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+      },
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ayush-gupta-b0a06a237/",
+      "image": {
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+      },
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Twitter",
+      "url": "https://x.com/Ayushh_gif",
+      "image": {
+        "public_id": "1708718328750-d4jsq.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+      },
+      "_id": "65b3e47cb48589dfcae185bd"
+    }
+  ],
+  "services": [
+    {
+      "name": "App Development",
+      "charge": "",
+      "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
+      "enabled": true,
+      "_id": "65f1fd690556c3f887e9d94a",
+      "image": {
+        "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+      }
+    },
+    {
+      "name": "Web & App ",
+      "charge": "",
+      "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
+      "image": {
+        "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357775748-9vwq4q.jpeg"
+      },
+      "enabled": true,
+      "_id": "65f1fd100556c3f887e9d87b"
+    },
+    {
+      "name": "UI/UX Solutions",
+      "charge": "",
+      "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
+      "image": {
+        "public_id": "1706290914024-725ytf",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706290914024-725ytf",
+        "_id": "65b3eee8eb20546ae6d467fe"
+      },
+      "_id": "65b3e33db48589dfcae1851d",
+      "enabled": true
+    },
+    {
+      "name": "Wordpress Development",
+      "charge": "",
+      "desc": "Get yourself a website.",
+      "image": {
+        "public_id": "portfolio3/1710357752227-6f5trs.jpeg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357752227-6f5trs.jpeg"
+      },
+      "_id": "65b3e2a6b48589dfcae183f2",
+      "enabled": true
+    }
+  ],
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "portfolio3/1710357726628-c4dr18.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+      },
+      "name": "Samantha Wu",
+      "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+      "position": "Software Engineer",
+      "enabled": true,
+      "_id": "65f1fcdf0556c3f887e9d74c"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357705657-aimydg.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357705657-aimydg.png"
+      },
+      "name": "David Rodriguez",
+      "review": "Throughout our project, John demonstrated exceptional technical skills and a strong work ethic. He consistently met deadlines and produced high-quality code that exceeded our expectations. His proactive approach to problem-solving and effective communication made him a valuable member of our team\n",
+      "position": "Project Manager",
+      "enabled": true,
+      "_id": "65f1fcca0556c3f887e9d6e8"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357683739-tqeav.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357683739-tqeav.png"
+      },
+      "name": " Emily Chen",
+      "review": "I had the pleasure of collaborating with John on a complex web application project. His ability to translate design concepts into functional, user-friendly features was impressive. John consistently delivered high-quality work and was always open to feedback. I look forward to working with him again in the future.\n\n",
+      "position": " Emily Chen",
+      "enabled": true,
+      "_id": "65f1fcb30556c3f887e9d662"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357647030-pi5cis.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357647030-pi5cis.png"
+      },
+      "name": " Michael Lee",
+      "review": "John is a skilled developer with a keen eye for detail. He played a crucial role in our team, consistently producing clean, efficient code. His collaborative nature and willingness to take on new challenges make him an invaluable asset to any project.\"",
+      "position": " Lead Developer",
+      "enabled": true,
+      "_id": "65f1fc8f0556c3f887e9d4e5"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Sarah Johnson",
+      "review": "Working with John was an absolute delight. Their professionalism and technical prowess were evident from day one. He consistently delivered top-notch code and went above and beyond to ensure the success of our project. I highly recommend him for any development endeavor",
+      "position": " Product Manager",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31d"
+    }
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}
