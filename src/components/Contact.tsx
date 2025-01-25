@@ -100,8 +100,8 @@ const Contact = ({ email, social_handle, about }: ContactProps) => {
           <SlideIn className="text-white/40">Interested in talking,</SlideIn>{" "}
           <br /> <SlideIn>let’s do it.</SlideIn>
         </SectionHeading>
-        <div className="grid md:grid-cols-2 gap-10 md:pt-16">
-          <form className="space-y-4" onSubmit={handleSubmit}>
+        <div className="flex flex-col sm:flex-row justify-between gap-10 md:pt-16">
+          <form className="space-y-4 w-full" onSubmit={handleSubmit}>
             <div className="flex gap-4">
               <Transition className="w-full">
                 <Input
