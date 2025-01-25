@@ -2,7 +2,7 @@
 
 import { AnimatePresence, motion } from "motion/react";
 import { ChangeEvent, FormEvent, useEffect, useState } from "react";
-
+import emailjs from "@emailjs/browser";
 import { About, SocialHandle } from "../utils/interface";
 import { cn } from "../utils/cn";
 import Link from "next/link";
@@ -20,7 +20,6 @@ const Contact = ({ email, social_handle, about }: ContactProps) => {
     "IDLE"
   );
   const [statusText, setStatusText] = useState("");
-
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -43,21 +42,35 @@ const Contact = ({ email, social_handle, about }: ContactProps) => {
     setStatus("SENDING");
 
     try {
-      console.log("Form data:", formData);
-      setTimeout(() => {
+      const templateParams = {
+        from_name: formData.name,
+        from_email: formData.email,
+        subject: formData.subject,
+        message: formData.message,
+        to_email: "ayushgupta3902@gmail.com",
+      };
+
+      const response = await emailjs.send(
+        process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
+        process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
+        templateParams,
+        process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
+      );
+
+      if (response.status === 200) {
         setStatus("DONE");
+        setStatusText("Message sent successfully!");
         setFormData({
           email: "",
           message: "",
           name: "",
           subject: "",
         });
-        setStatusText("Message sent successfully!");
-      }, 3000);
+      }
     } catch (error: any) {
       setStatus("ERROR");
       setStatusText("Error in sending message: " + error.message);
-      console.error("Error sending message:", error.message);
+      console.error("Error sending message:", error);
     }
   };
 
