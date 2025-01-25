@@ -40,7 +40,7 @@ const Timeline = ({ timeline }: ExperienceProps) => {
               <div className="md:text-5xl text-xl md:font-semibold flex-1">
                 {exp.jobTitle}
               </div>
-              <div className="max-md:text-sm max-md:flex flex-col text-foreground/50">
+              <div className="max-md:text-xs max-md:flex flex-col text-foreground/50">
                 <span className="italic">
                   {formatDate(exp.startDate).month +
                     ", " +
